@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shadab
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 📫 How to reach me
 
 <!---
 shadabsgit/shadabsgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
