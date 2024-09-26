@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shadab
-- 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning Machine Learning and Deep Learning Algorithms
-- 💬 Ask me about Data Analytics, Data Science, Machine Learning and Deep Learning
+- 🔭 I’m currently working as a Software Developer
+- 🌱 I’m currently learning DSA, System Design and Development
 - 📫 How to reach me: www.linkedin.com/in/shadabslink
 
 <!---
